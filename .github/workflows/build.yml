@@ -95,7 +95,7 @@ jobs:
     - uses: action/upload-artifact@v4
       with:
         name: aseprite
-          path:
-            - D:/asepriteee/aseprite/build/bin/data
-            - D:/asepriteee/aseprite/build/bin/aseprite.exe
+        path:
+          - D:/asepriteee/aseprite/build/bin/data
+          - D:/asepriteee/aseprite/build/bin/aseprite.exe
 
