@@ -96,6 +96,6 @@ jobs:
       with:
         name: aseprite
         path:
-          - D:/asepriteee/aseprite/build/bin/data
-          - D:/asepriteee/aseprite/build/bin/aseprite.exe
+          D:/asepriteee/aseprite/build/bin/data
+          D:/asepriteee/aseprite/build/bin/aseprite.exe
 
